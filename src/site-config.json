@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Rafael And Iris Roofing",
+    "phone": "+18186299994",
+    "category": "roofer",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Los Angeles' Roofing Experts",
+      "heroSubline": "Protecting homes and businesses across SoCal. Trust our experience for reliable, durable roofing solutions.",
+      "aboutTitle": "Decades of Roofing Expertise in Los Angeles",
+      "aboutText": [
+        "Rafael And Iris Roofing started with a simple goal: to provide honest, reliable roofing services to our Los Angeles neighbors. We saw too many fly-by-night operations leaving homeowners with shoddy work and empty promises. We're committed to doing things the right way, every time.",
+        "Our approach is straightforward: assess the situation thoroughly, explain the options clearly, and execute the work with precision and care. We use quality materials designed to withstand the harsh California sun and occasional seismic activity, ensuring a roof that protects your investment for years to come.",
+        "We're proud to be a part of the Los Angeles community. We live and work here, and we're committed to supporting local organizations and initiatives. When you choose Rafael And Iris Roofing, you're choosing a company that cares about its neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique roofing challenges posed by the Los Angeles climate and architecture."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We source durable, weather-resistant materials designed to withstand the California sun and seismic activity."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We show up on time, communicate clearly, and complete projects efficiently."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises – just honest, upfront pricing you can trust."
+        }
+      ],
+      "ctaHeadline": "Get a Free Roofing Estimate Today!",
+      "ctaSubline": "Protect your home with a durable, reliable roof. Contact us now to schedule your free consultation."
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast, reliable roof repair services to protect your Los Angeles home.",
+        "description": "From minor leaks to storm damage, Rafael And Iris Roofing provides comprehensive roof repair services throughout Los Angeles. We understand the urgency of roof repairs, especially with the threat of sudden rainstorms. Our experienced technicians quickly diagnose the problem and implement effective solutions to prevent further damage.\n\nWe handle all types of roof repairs, including shingle replacement, leak detection and repair, flashing repair, and damaged wood replacement. We use quality materials that match your existing roof, ensuring a seamless and long-lasting repair. Whether you have a classic Spanish Colonial Revival in Hollywood or a modern hillside home in Silver Lake, we have the expertise to restore your roof to its optimal condition.\n\nDon't let a small leak turn into a major problem. Contact Rafael And Iris Roofing for prompt and professional roof repair services. We'll provide a thorough inspection, a clear explanation of the necessary repairs, and a fair price.",
+        "process": [
+          "Step 1: Detailed roof inspection to identify all areas of damage.",
+          "Step 2: Clear explanation of the repair options and associated costs.",
+          "Step 3: Efficient and professional repair using quality materials.",
+          "Step 4: Final inspection to ensure the repair is complete and satisfactory."
+        ],
+        "benefits": [
+          "Prevents further water damage",
+          "Extends the life of your roof",
+          "Maintains your home's value",
+          "Peace of mind knowing your roof is secure"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a roof repair request?",
+            "answer": "We understand the urgency of roof repairs and strive to respond to requests as quickly as possible, often within 24 hours."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we offer emergency roof repair services for situations that require immediate attention, such as severe leaks or storm damage."
+          },
+          {
+            "question": "What types of roofs do you repair?",
+            "answer": "We repair all types of roofs common in Los Angeles, including shingle, tile, metal, and flat roofs."
+          }
+        ]
+      },
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Upgrade your home with a durable, long-lasting roof replacement.",
+        "description": "Is your roof showing its age? Rafael And Iris Roofing offers complete roof replacement services to homeowners throughout Los Angeles. We understand that a new roof is a significant investment, and we're committed to providing a seamless and stress-free experience.\n\nWe offer a wide variety of roofing materials to suit your style and budget, including asphalt shingles, tile, metal, and flat roofing systems. Our experienced team will help you choose the best option for your home, considering factors such as durability, energy efficiency, and aesthetic appeal. We handle every aspect of the roof replacement process, from removing the old roof to installing the new one with precision and care.\n\nA new roof can improve your home's curb appeal, increase its value, and provide long-lasting protection from the elements. Contact Rafael And Iris Roofing for a free consultation and estimate. We'll help you choose the perfect roof for your Los Angeles home.",
+        "process": [
+          "Step 1: Thorough inspection of your existing roof and assessment of your needs.",
+          "Step 2: Assistance in selecting the best roofing materials for your home and budget.",
+          "Step 3: Professional removal of your old roof and preparation of the roof deck.",
+          "Step 4: Expert installation of your new roof with attention to detail."
+        ],
+        "benefits": [
+          "Increases home value",
+          "Enhances curb appeal",
+          "Provides long-lasting protection",
+          "Improves energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "The duration of a roof replacement depends on the size and complexity of the roof, but most projects are completed within 3-5 days."
+          },
+          {
+            "question": "Do you offer financing options for roof replacement?",
+            "answer": "Yes, we offer flexible financing options to help make your roof replacement more affordable."
+          },
+          {
+            "question": "What type of warranty do you offer on roof replacements?",
+            "answer": "We offer comprehensive warranties on both materials and workmanship, providing you with peace of mind."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspection",
+        "name": "Roof Inspection",
+        "shortDescription": "Comprehensive roof inspections to identify potential problems early.",
+        "description": "Protect your investment with a professional roof inspection from Rafael And Iris Roofing. We provide thorough roof inspections for homeowners and businesses throughout Los Angeles. Our experienced inspectors will identify any potential problems, such as leaks, damaged shingles, or structural issues, before they become major headaches.\n\nWe use advanced techniques and equipment to thoroughly assess the condition of your roof. We'll provide you with a detailed report outlining our findings, along with recommendations for any necessary repairs or maintenance. A regular roof inspection can help extend the life of your roof and prevent costly repairs down the road.\n\nWhether you're buying a new home, selling your current home, or simply want to ensure your roof is in good condition, Rafael And Iris Roofing can help. Contact us today to schedule your roof inspection.",
+        "process": [
+          "Step 1: Thorough visual inspection of the roof's exterior.",
+          "Step 2: Inspection of the attic for signs of leaks or water damage.",
+          "Step 3: Detailed report outlining our findings and recommendations.",
+          "Step 4: Consultation to answer your questions and address your concerns."
+        ],
+        "benefits": [
+          "Identifies potential problems early",
+          "Extends the life of your roof",
+          "Prevents costly repairs",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, or more frequently if you live in an area prone to severe weather."
+          },
+          {
+            "question": "What are the signs that my roof needs to be inspected?",
+            "answer": "Signs that your roof needs to be inspected include leaks, missing shingles, damaged flashing, and excessive granule loss."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "The cost of a roof inspection depends on the size and complexity of the roof. Contact us for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Protect your home's foundation with our expert gutter services.",
+        "description": "Rafael And Iris Roofing provides comprehensive gutter services to homeowners throughout Los Angeles. Properly functioning gutters are essential for protecting your home's foundation from water damage. We offer gutter installation, repair, and cleaning services to ensure your gutters are working effectively.\n\nWe install high-quality gutters that are designed to withstand the elements and provide long-lasting performance. We also repair damaged gutters, including leaks, sagging, and clogs. Our gutter cleaning services remove leaves, debris, and other obstructions that can prevent your gutters from functioning properly.\n\nDon't let clogged or damaged gutters compromise your home's foundation. Contact Rafael And Iris Roofing for expert gutter services.",
+        "process": [
+          "Step 1: Inspection of your existing gutters to assess their condition.",
+          "Step 2: Recommendation of the best gutter services for your needs.",
+          "Step 3: Professional installation, repair, or cleaning of your gutters.",
+          "Step 4: Final inspection to ensure your gutters are functioning properly."
+        ],
+        "benefits": [
+          "Protects your home's foundation",
+          "Prevents water damage",
+          "Extends the life of your roof",
+          "Maintains your home's value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, or more frequently if you live in an area with a lot of trees."
+          },
+          {
+            "question": "What are the signs that my gutters need to be repaired?",
+            "answer": "Signs that your gutters need to be repaired include leaks, sagging, clogs, and rust."
+          },
+          {
+            "question": "What types of gutters do you install?",
+            "answer": "We install a variety of gutter types, including aluminum, copper, and vinyl gutters."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-roofing",
+        "name": "Emergency Roofing Services",
+        "shortDescription": "24/7 emergency roofing services for when disaster strikes.",
+        "description": "When a roofing emergency hits – whether it's a fallen tree after a Santa Ana windstorm or a sudden leak during a rare downpour – you need immediate help. Rafael And Iris Roofing offers 24/7 emergency roofing services throughout Los Angeles. We understand that roofing emergencies can happen at any time, and we're here to provide prompt and reliable assistance.\n\nOur experienced technicians will quickly assess the damage and implement temporary repairs to prevent further damage to your home. We'll then work with you to develop a long-term solution to restore your roof to its optimal condition. We handle all types of roofing emergencies, including leaks, storm damage, and structural failures.\n\nDon't wait until it's too late. Contact Rafael And Iris Roofing for immediate assistance with your roofing emergency.",
+        "process": [
+          "Step 1: Immediate response to your emergency call.",
+          "Step 2: Rapid assessment of the damage and implementation of temporary repairs.",
+          "Step 3: Development of a long-term solution to restore your roof.",
+          "Step 4: Professional completion of the necessary repairs."
+        ],
+        "benefits": [
+          "Prevents further damage",
+          "Provides peace of mind",
+          "Protects your home and family",
+          "Fast response time"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a roofing emergency?",
+            "answer": "A roofing emergency is any situation that requires immediate attention to prevent further damage to your home, such as a severe leak, storm damage, or structural failure."
+          },
+          {
+            "question": "How quickly can you respond to a roofing emergency?",
+            "answer": "We strive to respond to roofing emergencies as quickly as possible, often within hours."
+          },
+          {
+            "question": "Do you work with insurance companies?",
+            "answer": "Yes, we work with most insurance companies to help you with your roofing claim."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing",
+        "shortDescription": "Expert commercial roofing services for Los Angeles businesses.",
+        "description": "Rafael And Iris Roofing provides comprehensive commercial roofing services to businesses throughout Los Angeles. We understand the unique challenges of commercial roofing, and we have the expertise to handle any project, large or small. From office buildings in Downtown LA to retail spaces in Venice, we've got you covered.\n\nWe offer a wide range of commercial roofing services, including installation, repair, and maintenance. We work with all types of commercial roofing systems, including flat roofs, metal roofs, and single-ply roofs. Our experienced team will help you choose the best roofing solution for your business, considering factors such as durability, energy efficiency, and cost.\n\nProtect your business with a reliable, long-lasting roof. Contact Rafael And Iris Roofing for a free consultation and estimate.",
+        "process": [
+          "Step 1: Thorough assessment of your commercial roofing needs.",
+          "Step 2: Recommendation of the best roofing solution for your business.",
+          "Step 3: Professional installation, repair, or maintenance of your commercial roof.",
+          "Step 4: Ongoing support and maintenance to ensure your roof's longevity."
+        ],
+        "benefits": [
+          "Protects your business",
+          "Improves energy efficiency",
+          "Extends the life of your roof",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial roofing systems do you work with?",
+            "answer": "We work with all types of commercial roofing systems, including flat roofs, metal roofs, and single-ply roofs."
+          },
+          {
+            "question": "Do you offer maintenance plans for commercial roofs?",
+            "answer": "Yes, we offer customizable maintenance plans to keep your commercial roof in top condition."
+          },
+          {
+            "question": "What is the lifespan of a commercial roof?",
+            "answer": "The lifespan of a commercial roof depends on the type of roofing system and the quality of the installation. However, most commercial roofs last between 20 and 30 years."
+          }
+        ]
+      },
+      {
+        "slug": "skylight-services",
+        "name": "Skylight Installation & Repair",
+        "shortDescription": "Bring natural light into your home with our skylight services.",
+        "description": "Brighten up your Los Angeles home with beautiful, energy-efficient skylights installed or repaired by Rafael And Iris Roofing. We understand the desire to maximize natural light in a city known for its sunshine. Our experienced team specializes in skylight installation and repair, providing homeowners with a seamless and professional experience.\n\nWe offer a variety of skylight options to suit your needs and style, including fixed, venting, and tubular skylights. We use high-quality materials that are designed to withstand the California sun and prevent leaks. Whether you're looking to add a skylight to your living room, kitchen, or bathroom, we can help.\n\nIn addition to installation, we also provide skylight repair services. If your skylight is leaking, cracked, or damaged, we can quickly diagnose the problem and implement an effective solution. Contact Rafael And Iris Roofing for all your skylight needs.",
+        "process": [
+          "Step 1: Consultation to discuss your skylight needs and preferences.",
+          "Step 2: Selection of the best skylight option for your home.",
+          "Step 3: Professional installation or repair of your skylight.",
+          "Step 4: Final inspection to ensure your skylight is functioning properly."
+        ],
+        "benefits": [
+          "Increases natural light",
+          "Improves energy efficiency",
+          "Enhances home aesthetics",
+          "Adds value to your home"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of skylights?",
+            "answer": "Skylights provide natural light, improve energy efficiency, and enhance the aesthetics of your home."
+          },
+          {
+            "question": "How much do skylights cost?",
+            "answer": "The cost of skylights depends on the type, size, and installation complexity. Contact us for a free quote."
+          },
+          {
+            "question": "Are skylights prone to leaks?",
+            "answer": "When properly installed and maintained, skylights are not prone to leaks. We use high-quality materials and expert installation techniques to prevent leaks."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "Rafael And Iris Roofing is proud to offer our expert roofing services to the residents and businesses of Long Beach, California. From the iconic Queen Mary to the vibrant Belmont Shore, we understand the unique architectural landscape of this coastal city. We are experienced in working on a variety of roofing styles, including the charming 1920s-40s Craftsman homes that characterize many Long Beach neighborhoods.\n\nLong Beach's warm, dry climate presents specific challenges and opportunities for roofing. We can help you choose the best materials and installation techniques to ensure your roof withstands the Southern California sun and occasional coastal breezes. Whether you need a minor repair, a complete roof replacement, or a routine inspection, Rafael And Iris Roofing is committed to providing quality workmanship and exceptional customer service.",
+        "localContext": "Long Beach is known for its diverse neighborhoods, historic architecture, and beautiful beaches, making it a unique place to live and work.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Carson",
+          "Signal Hill"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "Rafael And Iris Roofing provides top-notch roofing services throughout Pasadena, California. We appreciate the rich history and architectural beauty of Pasadena, particularly the prevalence of 1910s-30s Craftsman bungalows. Our team is skilled in preserving the character of these homes while ensuring their roofs are durable and reliable.\n\nThe warm, dry climate of Pasadena requires careful consideration when selecting roofing materials. We offer a range of options that are both aesthetically pleasing and capable of withstanding the elements. From shingle repairs to complete roof replacements, Rafael And Iris Roofing is dedicated to providing quality service and lasting results.",
+        "localContext": "Pasadena is famous for its iconic Rose Bowl Stadium, historic Old Town, and beautiful Craftsman architecture, offering a blend of tradition and modernity.",
+        "nearbyAreas": [
+          "South Pasadena",
+          "San Marino",
+          "Altadena"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "Rafael And Iris Roofing is pleased to serve the residents and businesses of Irvine, California. As a master-planned community with homes primarily built from the 1970s to the present, Irvine presents a unique set of roofing needs. We are experienced in working with the various roofing styles and materials common in Irvine's neighborhoods.\n\nThe warm, dry climate of Irvine necessitates durable and energy-efficient roofing solutions. We offer a variety of options to meet your specific needs and budget. Whether you require a roof inspection, repair, or replacement, Rafael And Iris Roofing is committed to providing exceptional service and quality workmanship.",
+        "localContext": "Irvine is a master-planned city known for its excellent schools, safe neighborhoods, and thriving business community.",
+        "nearbyAreas": [
+          "Tustin",
+          "Lake Forest",
+          "Newport Beach"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "Rafael And Iris Roofing is proud to offer comprehensive roofing services to the growing community of Santa Clarita, California. Known for its newer, master-planned communities built from the 1990s to the 2020s, Santa Clarita requires roofing solutions that are both modern and durable. We understand the specific needs of homeowners in this area and are equipped to handle any roofing project.\n\nThe warm, dry climate of Santa Clarita demands roofing materials that can withstand the sun's intensity and occasional heat waves. We offer a wide range of options, including energy-efficient shingles and tile roofing, to help keep your home cool and comfortable. From minor repairs to complete roof replacements, Rafael And Iris Roofing is committed to providing exceptional service and lasting results.",
+        "localContext": "Santa Clarita is a family-friendly city with a focus on community events, outdoor activities, and modern living.",
+        "nearbyAreas": [
+          "Valencia",
+          "Saugus",
+          "Canyon Country"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "Rafael And Iris Roofing is dedicated to providing exceptional roofing services to the residents and businesses of Torrance, California. With its abundance of 1950s-60s post-war homes, Torrance presents a unique blend of architectural styles. We are experienced in working on these homes and understand the specific roofing needs of this community.\n\nThe warm, dry climate of Torrance requires durable and reliable roofing solutions. We offer a variety of options to protect your home from the elements and enhance its curb appeal. Whether you need a minor repair, a complete roof replacement, or a routine inspection, Rafael And Iris Roofing is committed to providing quality workmanship and outstanding customer service.",
+        "localContext": "Torrance is a coastal city known for its excellent schools, diverse community, and beautiful beaches.",
+        "nearbyAreas": [
+          "Redondo Beach",
+          "Gardena",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Glendale",
+        "slug": "glendale-ca",
+        "state": "CA",
+        "content": "Rafael And Iris Roofing offers reliable roofing services to the residents and businesses of Glendale, California. Glendale showcases a diverse range of architectural styles, from historic homes to modern buildings. We are familiar with the roofing challenges specific to this area and provide tailored solutions to meet your needs.\n\nGlendale's warm and dry climate necessitates roofing materials that can withstand the sun's heat and occasional weather changes. We offer a variety of roofing options, including tile, shingle, and flat roofing systems. Whether you need a minor repair or a complete roof replacement, Rafael And Iris Roofing is dedicated to providing high-quality workmanship and exceptional customer service.",
+        "localContext": "Glendale is a vibrant city known for its diverse community, shopping destinations, and proximity to the Verdugo Mountains.",
+        "nearbyAreas": [
+          "Burbank",
+          "Pasadena",
+          "La Cañada Flintridge"
+        ]
+      },
+      {
+        "city": "West Covina",
+        "slug": "west-covina-ca",
+        "state": "CA",
+        "content": "Rafael And Iris Roofing is proud to serve the roofing needs of West Covina, California. West Covina features a mix of residential and commercial properties, requiring a versatile approach to roofing solutions. We offer comprehensive services to address any roofing project, big or small.\n\nThe warm and sunny climate of West Covina requires durable and energy-efficient roofing options. We provide a range of materials, including cool roofing systems, to help you save on energy costs and keep your home comfortable. From inspections to repairs and replacements, Rafael And Iris Roofing is committed to providing exceptional service and lasting results.",
+        "localContext": "West Covina is a thriving city known for its cultural diversity, shopping centers, and family-friendly community.",
+        "nearbyAreas": [
+          "Covina",
+          "Baldwin Park",
+          "La Puente"
+        ]
+      },
+      {
+        "city": "Pomona",
+        "slug": "pomona-ca",
+        "state": "CA",
+        "content": "Rafael And Iris Roofing is dedicated to providing top-quality roofing services to the residents and businesses of Pomona, California. Pomona's diverse architectural landscape, ranging from historic homes to modern developments, demands a wide range of roofing expertise. We are equipped to handle any roofing challenge in this dynamic city.\n\nThe warm and dry climate of Pomona requires roofing materials that can withstand the sun's intensity and occasional heat waves. We offer a variety of options, including tile, shingle, and cool roofing systems, to meet your specific needs and budget. Whether you need a minor repair, a complete roof replacement, or a routine inspection, Rafael And Iris Roofing is committed to providing exceptional service and lasting results.",
+        "localContext": "Pomona is a city known for its diverse community, historic architecture, and the Los Angeles County Fair.",
+        "nearbyAreas": [
+          "Claremont",
+          "San Dimas",
+          "La Verne"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "Rafael And Iris Roofing saved the day! We had a major leak in our Silver Lake home after a recent storm. They came out quickly, identified the problem, and fixed it right away. Very professional and reasonably priced.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Roof Replacement",
+        "text": "We hired Rafael And Iris Roofing to replace the roof on our Pasadena bungalow. The crew was efficient and did a great job. There was a slight delay due to material availability, but they communicated clearly throughout the process. The new roof looks fantastic!",
+        "date": "2025-02-20"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "Excellent service! Our gutters were completely clogged with leaves and debris. Rafael And Iris Roofing cleaned them out quickly and efficiently. They even took the time to inspect our roof for any potential problems. Highly recommend!",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Roof Inspection",
+        "text": "As a first-time homebuyer in Torrance, I wanted to get a roof inspection before closing. Rafael And Iris Roofing provided a thorough inspection and gave me peace of mind knowing the roof was in good condition. The report was detailed and easy to understand.",
+        "date": "2024-11-10"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Emergency Roofing",
+        "text": "We had a tree fall on our roof during a windstorm. Rafael And Iris Roofing responded quickly and provided temporary repairs to prevent further damage. They were professional and courteous during a stressful situation.",
+        "date": "2024-10-25"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Commercial Roofing",
+        "text": "Rafael And Iris Roofing did an outstanding job on our commercial building in downtown Los Angeles. They were professional, efficient, and completed the project on time and within budget. Highly recommend their commercial roofing services.",
+        "date": "2024-09-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Los Angeles Roofing | Rafael And Iris Roofing",
+        "description": "Trusted roofing contractor in Los Angeles, CA. Roof repair, replacement, inspections & more. Get a free estimate today!"
+      },
+      "about": {
+        "title": "About Rafael And Iris Roofing | Los Angeles, CA",
+        "description": "Learn about Rafael And Iris Roofing, your local Los Angeles roofing experts. Quality workmanship and reliable service you can trust."
+      },
+      "services": {
+        "title": "Roofing Services | Rafael And Iris Roofing, Los Angeles",
+        "description": "Comprehensive roofing services in Los Angeles, CA. Roof repair, replacement, inspections, gutters & more. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Rafael And Iris Roofing | Los Angeles, CA",
+        "description": "Contact Rafael And Iris Roofing for a free roofing estimate in Los Angeles. Call us today to schedule your consultation."
+      },
+      "reviews": {
+        "title": "Rafael And Iris Roofing Reviews | Los Angeles, CA",
+        "description": "Read reviews from satisfied customers of Rafael And Iris Roofing in Los Angeles. See why we're the trusted choice for roofing services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Rafael And Iris Roofing",
+        "description": "Areas we serve in Los Angeles and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-inspection": "/images/service-roof-inspection.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "emergency-roofing": "/images/service-emergency-roofing.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp",
+      "skylight-services": "/images/service-skylight-services.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspection": {
+        "src": "/images/service-roof-inspection.webp",
+        "srcset": "/images/service-roof-inspection-400w.webp 400w, /images/service-roof-inspection-800w.webp 800w, /images/service-roof-inspection-1200w.webp 1200w, /images/service-roof-inspection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-roofing": {
+        "src": "/images/service-emergency-roofing.webp",
+        "srcset": "/images/service-emergency-roofing-400w.webp 400w, /images/service-emergency-roofing-800w.webp 800w, /images/service-emergency-roofing-1200w.webp 1200w, /images/service-emergency-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "skylight-services": {
+        "src": "/images/service-skylight-services.webp",
+        "srcset": "/images/service-skylight-services-400w.webp 400w, /images/service-skylight-services-800w.webp 800w, /images/service-skylight-services-1200w.webp 1200w, /images/service-skylight-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
